@@ -27,17 +27,6 @@
 **Version Control:** Git, GitHub  
 
 ---
-
-### 🧩 Featured Projects
-| Project | Description | Tools |
-|----------|--------------|-------|
-| [🐕 Four-Bar Dog Gait Simulation](#) | Simulated quadruped gait dynamics using MuJoCo XML & Python animation | MuJoCo · Python · Matplotlib |
-| [⚙️ PID Motor Control](#) | Real-time motor control using Arduino + Simulink | MATLAB · Simulink · Arduino |
-| [🚗 e-Scrambler EV Bike](#) | Designed & simulated a dual-battery 1500 W electric bike | CATIA · SolidWorks · MATLAB |
-| [🤖 Autonomous Vehicle Sensor Fusion](#) | Integrated LiDAR + Camera + Radar data for perception | ROS2 · Python · OpenCV |
-
-
----
 ### 📫 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/vamshikrishna-gadde9999/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
