@@ -41,9 +41,10 @@
 ### 📫 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/vamshikrishna-gadde9999/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:vgadde@asu.edu"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/GVK-Engine"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
+  <a href="mailto:Vgadde5@asu.edu"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/GVK-Engine/VAMSHIKRISHNA-GADDE?tab=readme-ov-file"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
 </p>
+
 
 ---
 
