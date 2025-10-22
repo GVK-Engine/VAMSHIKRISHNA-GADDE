@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Robotics & Autonomous Systems Engineer | Mechanical Design | AI-Driven Robotics</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="400"/>
+  <img src="https://github.com/user-attachments/assets/121a101b-a46e-4e70-8b0c-35051ce868eb" width="400"/>
 </p>
 
 ---
@@ -38,10 +38,9 @@
 
 
 ---
-
 ### 📫 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/vamshikrishna-gadde/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vamshikrishna-gadde9999/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:vgadde@asu.edu"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/GVK-Engine"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
 </p>
